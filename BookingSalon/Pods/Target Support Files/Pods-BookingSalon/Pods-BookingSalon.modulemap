@@ -1,0 +1,6 @@
+framework module Pods_BookingSalon {
+  umbrella header "Pods-BookingSalon-umbrella.h"
+
+  export *
+  module * { export * }
+}
